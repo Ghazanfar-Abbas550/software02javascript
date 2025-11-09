@@ -10,7 +10,7 @@
 - [task 08](https://github.com/Ghazanfar-Abbas550/software02javascript/tree/main/Module01/task08)
 - [task 09](https://github.com/Ghazanfar-Abbas550/software02javascript/tree/main/Module01/task09)
 - [task 10](https://github.com/Ghazanfar-Abbas550/software02javascript/tree/main/Module01/task10)
-- 
+
 ## Module 2
 Nothing avalible here yet
 ## Module 3
